@@ -10,9 +10,9 @@ A simple and beginner-friendly calculator project demonstrating core frontend sk
 
 ## 🖼️ Screenshots
 
-![Screenshot](./assets/screenshot.png)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://calculator-krb.netlify.app/)
 
----
+[![Screenshot](./assets/screenshot.png)](https://calculator-krb.netlify.app/)
 
 ## ✨ Features
 
