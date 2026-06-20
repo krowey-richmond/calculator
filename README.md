@@ -4,7 +4,11 @@
 
 ## 📌 Overview
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://calculator-krb.netlify.app/)
+<div align="center">
+<a href="https://calculator-krb.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+</div>
 
 <p align="center">
   <a href="https://calculator-krb.netlify.app/">
