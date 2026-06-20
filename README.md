@@ -4,15 +4,15 @@
 
 ## 📌 Overview
 
-A simple and beginner-friendly calculator project demonstrating core frontend skills using HTML, CSS, and JavaScript.
-
----
-
-## 🖼️ Screenshots
-
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://calculator-krb.netlify.app/)
 
-[![Screenshot](./assets/screenshot.png)](https://calculator-krb.netlify.app/)
+<p align="center">
+  <a href="https://calculator-krb.netlify.app/">
+    <img src="./assets/screenshot.png" width="600" style="border-radius:10px;" />
+  </a>
+</p>
+
+A simple and beginner-friendly calculator project demonstrating core frontend skills using HTML, CSS, and JavaScript.
 
 ## ✨ Features
 
