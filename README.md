@@ -1,68 +1,79 @@
-## 📄 Calculator App
-
-
-A simple web-based calculator built with HTML, CSS, and JavaScript. It performs basic arithmetic operations using a clean, responsive interface.
+# Calculator
 
 ---
 
-## 🧮 Features
+## 📌 Overview
 
-* Basic arithmetic operations (+, −, ×, ÷)
-* Clear (C) reset function
-* Real-time expression building
-* Keyboard-style button layout
-* Error handling for invalid inputs
+A simple and beginner-friendly calculator project demonstrating core frontend skills using HTML, CSS, and JavaScript.
 
 ---
 
-## 🛠 Technologies Used
+## 🖼️ Screenshots
 
-* HTML5
-* CSS3
-* JavaScript (Vanilla)
+![Screenshot](./assets/screenshot.png)
 
 ---
 
-## 🚀 Installation
+## ✨ Features
+
+- Basic arithmetic operations (+, −, ×, ÷)
+- Clear (C) reset function
+- Real-time expression building
+- Responsive layout
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📁 Folder Structure
 
 ```bash
-git clone https://github.com/krowey-richmond/my-portfolio.git
-```
-
-Navigate to:
-
-```bash
-projects/intermediate/calculator
-```
-
-Open `index.html` in your browser.
-
----
-
-## 💻 Usage
-
-* Click buttons to build expressions
-* Press `=` to evaluate
-* Press `C` to clear display
-
----
-
-## 🗂 File Structure
-
-```
 calculator/
 ├── index.html
 ├── styles.css
-└── app.js
+├── app.js
+└── assets/
 ```
 
 ---
 
-## 🌐 Live Preview
+## 📦 Installation & Run
 
-<div align="center">
-<a href="https://calculator-rich.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Live-Netlify-brightgreen?style=for-the-badge" />
-</a>
-</div>
+Follow these steps to set up and run the project:
 
+```bash
+# Clone the repository
+git clone https://github.com/krowey-richmond/calculator.git
+
+# Move into the project folder
+cd calculator
+
+# Open in VS Code
+code .
+```
+
+If it runs in the browser:
+
+- Open `index.html` directly
+
+---
+
+## 📊 Project Status
+
+- Status: Completed
+- Version: 1.0
+
+---
+
+## 🧠 What I Learned
+
+- Basic project structure
+- How to organize frontend files properly
+- DOM manipulation
+- Working with clean UI layouts
