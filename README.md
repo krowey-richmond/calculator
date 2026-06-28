@@ -5,13 +5,13 @@
 ## 📌 Overview
 
 <div align="center">
-<a href="https://calculator-krb.netlify.app/" target="_blank">
+<a href="https://krowey-richmond.github.io/calculator/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 </div>
 
 <p align="center">
-  <a href="https://calculator-krb.netlify.app/">
+  <a href="https://krowey-richmond.github.io/calculator/">
     <img src="./assets/screenshot.png" width="600" style="border-radius:10px;" />
   </a>
 </p>
